@@ -87,7 +87,7 @@ internal class Program
             if (PotentialParams.Length == 3)
             {
                 if(int.TryParse(PotentialParams[0], out initialX) && int.TryParse(PotentialParams[1], out initialY) &&
-                    Regex.IsMatch(PotentialParams[2], RouteStringCharsRegex))
+                    Regex.IsMatch(PotentialParams[2], RouteStringCharsRegex) && PotentialParams[2].Length == 1)
                 {
                     initialDirection = char.Parse(PotentialParams[2]);
                     UserStringValid = true;

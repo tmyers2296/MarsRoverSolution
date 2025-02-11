@@ -12,3 +12,4 @@
 /Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/MarsRoverSolution.pdb
 /Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/MarsRoverSolution.genruntimeconfig.cache
 /Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/ref/MarsRoverSolution.dll
+/Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/MarsRoverSolution.sourcelink.json
