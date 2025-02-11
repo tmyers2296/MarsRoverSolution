@@ -1,0 +1,14 @@
+/Users/timothy/Documents/MarsRoverSolution/bin/Debug/net9.0/MarsRoverSolution
+/Users/timothy/Documents/MarsRoverSolution/bin/Debug/net9.0/MarsRoverSolution.deps.json
+/Users/timothy/Documents/MarsRoverSolution/bin/Debug/net9.0/MarsRoverSolution.runtimeconfig.json
+/Users/timothy/Documents/MarsRoverSolution/bin/Debug/net9.0/MarsRoverSolution.dll
+/Users/timothy/Documents/MarsRoverSolution/bin/Debug/net9.0/MarsRoverSolution.pdb
+/Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/MarsRoverSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/MarsRoverSolution.AssemblyInfoInputs.cache
+/Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/MarsRoverSolution.AssemblyInfo.cs
+/Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/MarsRoverSolution.csproj.CoreCompileInputs.cache
+/Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/MarsRoverSolution.dll
+/Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/refint/MarsRoverSolution.dll
+/Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/MarsRoverSolution.pdb
+/Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/MarsRoverSolution.genruntimeconfig.cache
+/Users/timothy/Documents/MarsRoverSolution/obj/Debug/net9.0/ref/MarsRoverSolution.dll
